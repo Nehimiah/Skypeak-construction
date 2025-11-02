@@ -1,0 +1,1607 @@
+# MVP Website Prompt for CNMI Construction Company
+
+## Project Overview
+
+Create a professional, mobile-first website for **“Pacific Stone Builders”** - a fictional mid-sized construction company in Saipan, CNMI specializing in commercial, residential, and government projects.
+
+-----
+
+## Brand Identity
+
+**Company Name:** Pacific Stone Builders  
+**Tagline:** “Building Tomorrow’s CNMI, Today”  
+**Brand Personality:** Trustworthy, professional, community-focused, island-proud  
+**Color Palette:**
+
+- Primary: Deep Ocean Blue (#1B4965) - represents ocean, trust, stability
+- Secondary: Warm Coral (#FF6B4A) - represents island sunsets, energy
+- Accent: Sandy Beige (#E8DCC4) - represents beaches, natural materials
+- Neutral: Charcoal (#2D3436) and White (#FFFFFF)
+
+**Typography:**
+
+- Headers: Montserrat Bold (professional, modern, readable)
+- Body: Open Sans Regular (clean, accessible, web-friendly)
+
+-----
+
+## Site Architecture (6 Core Pages)
+
+### 1. **HOME PAGE** (Priority: Critical)
+
+### 2. **ABOUT US** (Priority: Critical)
+
+### 3. **SERVICES** (Priority: Critical)
+
+### 4. **PROJECTS/PORTFOLIO** (Priority: Critical)
+
+### 5. **CERTIFICATIONS & LICENSES** (Priority: High)
+
+### 6. **CONTACT** (Priority: Critical)
+
+-----
+
+## Detailed Page Specifications
+
+-----
+
+## **PAGE 1: HOME PAGE**
+
+### Hero Section
+
+**Layout:** Full-width hero with text overlay (left-aligned)
+
+**Hero Image Requirements:**
+
+- Construction workers in tropical setting
+- Modern building under construction with palm trees visible
+- Bright, professional lighting (golden hour preferred)
+- Mix of ethnicities representing CNMI diversity (Chamorro, Filipino, Asian workers)
+- Workers wearing proper safety gear (hard hats, vests)
+- **Stock photo keywords:** “construction workers tropical island,” “building site palm trees,” “diverse construction team sunshine”
+
+**Hero Content:**
+
+```
+[LOGO: Pacific Stone Builders - stylized palm tree + building icon]
+
+Headline: "CNMI's Trusted General Contractor Since 1998"
+Subheadline: "From Saipan to Tinian to Rota - Building Excellence Across the Northern Marianas"
+
+[CTA Button - Coral color]: "Request a Quote"
+[Secondary CTA - Outlined]: "View Our Projects"
+```
+
+### Trust Bar (Below Hero)
+
+**Background:** Light beige with subtle texture
+
+**Content (Icons + Text in 4 columns):**
+
+- ✓ 25+ Years Serving CNMI
+- ✓ Licensed & Bonded Contractor
+- ✓ Federal & Government Projects
+- ✓ 100% Local Team
+
+### Services Overview Section
+
+**Background:** White
+
+**Section Title:** “Complete Construction Solutions for the Northern Marianas”
+
+**Layout:** 3-column card grid with hover effects
+
+**Service Cards:**
+
+**Card 1: Commercial Construction**
+
+- Icon: Building/office icon
+- Image: Modern commercial building in tropical setting, clean lines, professional
+- Text: “Hotels, resorts, retail spaces, and office buildings built to withstand island weather”
+- Link: “Learn More →”
+
+**Card 2: Residential Construction**
+
+- Icon: House icon
+- Image: Beautiful island home with ocean view, tropical landscaping
+- Text: “Custom homes and multi-family housing designed for island living”
+- Link: “Learn More →”
+
+**Card 3: Government Contracts**
+
+- Icon: Government building icon
+- Image: School or public facility, American flag visible
+- Text: “Qualified contractor for federal, CNMI, and municipal projects”
+- Link: “Learn More →”
+
+### Featured Projects Section
+
+**Background:** Light gray with subtle concrete texture
+
+**Section Title:** “Recent Projects Across CNMI”
+
+**Layout:** 2-column grid (mobile: stacks to 1 column)
+
+**Project Showcase (2 featured projects):**
+
+**Project 1:**
+
+- Image: Completed modern hotel or resort, sunset lighting, palm trees
+- Overlay text: “Coral Bay Resort Renovation - Saipan”
+- Quick stats: “$2.3M | 8 Months | 2024”
+- [Button]: “View All Projects”
+
+**Project 2:**
+
+- Image: New school building, children visible in playground area
+- Overlay text: “Kagman Elementary Expansion - Saipan”
+- Quick stats: “$1.8M | 12 Months | 2023”
+
+### Why Choose Us Section
+
+**Background:** Deep ocean blue with semi-transparent overlay
+
+**Image Background:** Construction site at golden hour, workers silhouetted
+
+**Content (Centered, white text):**
+
+```
+"Why Pacific Stone Builders?"
+
+[4 columns with icons - mobile stacks]
+
+🏝️ Island Expertise
+We understand CNMI's unique climate, building codes, and typhoon requirements
+
+👷 Local Team
+100% locally-based crew who understand island culture and community
+
+📋 Fully Licensed
+CNMI General Contractor License, Federal contractor registration, bonded & insured
+
+🤝 On Time, On Budget
+Track record of completing projects on schedule and within budget
+```
+
+### Call-to-Action Section
+
+**Background:** Warm coral gradient
+
+**Content (Centered):**
+
+```
+"Ready to Start Your Project?"
+
+Whether it's a custom home, commercial building, or government contract,
+Pacific Stone Builders delivers quality construction across the CNMI.
+
+[White Button]: "Get a Free Estimate"
+[Outlined Button]: "Call (670) 234-5678"
+```
+
+### Footer
+
+**Background:** Charcoal
+
+**Layout:** 4 columns (mobile: stacks)
+
+**Column 1: Company Info**
+
+```
+[Logo - white version]
+Pacific Stone Builders
+CNMI General Contractor License #12345
+
+Building the Northern Marianas
+since 1998
+```
+
+**Column 2: Quick Links**
+
+- About Us
+- Services
+- Projects
+- Certifications
+- Contact
+- Careers
+
+**Column 3: Services**
+
+- Commercial Construction
+- Residential Construction
+- Government Contracts
+- Renovations & Remodeling
+- Design-Build Services
+
+**Column 4: Contact**
+
+```
+📍 123 Middle Road, Garapan
+    Saipan, MP 96950
+
+📞 (670) 234-5678
+📧 info@pacificstonebuilders.com
+
+🕐 Mon-Fri: 7:30 AM - 5:00 PM
+    Sat: 8:00 AM - 12:00 PM
+```
+
+**Social Media Icons:** Facebook, Instagram, LinkedIn (white icons)
+
+**Bottom Bar:**
+
+```
+© 2024 Pacific Stone Builders | Privacy Policy | Terms of Service
+"An Equal Opportunity Employer"
+```
+
+-----
+
+## **PAGE 2: ABOUT US**
+
+### Hero Section
+
+**Image:** Team photo - diverse crew in safety gear, smiling, construction site background with ocean visible in distance
+
+- **Stock keywords:** “construction team diverse tropical,” “workers team photo island”
+
+**Text Overlay:**
+
+```
+"Building CNMI's Future, Together"
+Meet the team behind the Northern Marianas' most trusted construction company
+```
+
+### Company Story Section
+
+**Background:** White
+
+**Layout:** 2 columns - text left, image right (mobile: stacks)
+
+**Content:**
+
+```
+"Our Story"
+
+Pacific Stone Builders was founded in 1998 by Juan Tenorio, a third-generation Saipan resident who saw the need for a locally-owned construction company that truly understood the unique challenges of building in the Northern Marianas.
+
+From our humble beginnings with a crew of five, we've grown into one of CNMI's premier general contractors, completing over 200 projects across Saipan, Tinian, and Rota. But we've never forgotten our roots.
+
+Today, our 40+ person team is 100% local, with deep ties to the communities we serve. We're not just building structures - we're building the future of our islands, one project at a time.
+```
+
+**Image:** Vintage-style photo of construction (could be actual historical or styled modern photo), workers, old Saipan visible
+
+### Mission, Vision, Values Section
+
+**Background:** Light beige
+
+**Layout:** 3 cards side-by-side
+
+**Card 1: Mission**
+
+```
+🎯 Our Mission
+
+To deliver exceptional construction services that exceed client expectations while contributing to CNMI's economic growth and community development.
+```
+
+**Card 2: Vision**
+
+```
+👁️ Our Vision
+
+To be the Northern Marianas' most respected construction company, known for quality, integrity, and commitment to our island home.
+```
+
+**Card 3: Values**
+
+```
+⭐ Our Values
+
+• Integrity in every project
+• Safety first, always
+• Community commitment
+• Excellence in execution
+• Environmental responsibility
+```
+
+### Leadership Team Section
+
+**Background:** White
+
+**Section Title:** “Meet Our Leadership”
+
+**Layout:** 3-column grid (team member cards)
+
+**Team Member Cards (3 people):**
+
+**Card Structure (each):**
+
+- Professional headshot (island/office background)
+- Name & Title
+- Brief bio (2-3 sentences)
+- LinkedIn icon link
+
+**Example:**
+
+```
+[Professional headshot - mix of ages/genders]
+
+Juan T. Cabrera
+President & General Contractor
+
+Juan has over 30 years of construction experience in CNMI and holds a General Contractor License. He's passionate about mentoring the next generation of island builders.
+[LinkedIn icon]
+```
+
+### Certifications & Memberships Section
+
+**Background:** Deep ocean blue
+
+**Section Title (white text):** “Certified & Qualified”
+
+**Layout:** Badge-style logos in grid
+
+**Certifications/Memberships to show:**
+
+- CNMI General Contractor License
+- Federal Contractor Registration ([SAM.gov](http://SAM.gov))
+- Saipan Chamber of Commerce Member
+- OSHA Safety Certified
+- Bonded & Insured (surety company logo)
+- Better Business Bureau
+
+### By the Numbers Section
+
+**Background:** White
+
+**Layout:** 4 large statistics in a row (mobile: 2x2 grid)
+
+```
+📊 Pacific Stone Builders in Numbers
+
+25+               200+              40+              $50M+
+Years            Completed         Local            Projects
+Serving CNMI     Projects          Employees        Completed
+```
+
+### Community Involvement Section
+
+**Background:** Light gray
+
+**Section Title:** “Giving Back to Our Community”
+
+**Layout:** 2 columns - image left, text right
+
+**Image:** Company volunteering (beach cleanup, school project, community event) with workers in company shirts
+
+- **Stock keywords:** “volunteers community tropical island,” “beach cleanup crew”
+
+**Text:**
+
+```
+At Pacific Stone Builders, we believe in giving back to the islands that have given us so much.
+
+Our team regularly volunteers for:
+• Beach cleanups across Saipan
+• Habitat for Humanity builds
+• Public school improvement projects
+• Youth mentorship programs
+
+We're proud to sponsor local sports teams, cultural events, and educational initiatives that strengthen our CNMI community.
+```
+
+### Call-to-Action
+
+**Background:** Coral
+
+**Content (centered):**
+
+```
+"Want to Work With Us?"
+
+[Button]: "Start Your Project"    [Button]: "Join Our Team"
+```
+
+-----
+
+## **PAGE 3: SERVICES**
+
+### Hero Section
+
+**Image:** Wide shot of construction site, multiple activities happening, tropical setting, professional workers
+
+- **Stock keywords:** “construction site overview tropical,” “building process island”
+
+**Text Overlay:**
+
+```
+"Comprehensive Construction Services"
+From concept to completion, we handle every phase of your project
+```
+
+### Services Introduction
+
+**Background:** White
+
+**Content (centered, max-width 800px):**
+
+```
+"Full-Service Construction for the Northern Marianas"
+
+Whether you're planning a commercial development, residential project, or government facility, Pacific Stone Builders has the expertise, equipment, and local knowledge to bring your vision to life. We handle projects of all sizes across Saipan, Tinian, and Rota.
+```
+
+### Service Detail Sections
+
+**Pattern for each service:** Alternating image left/right layout
+
+-----
+
+**SERVICE 1: Commercial Construction**
+
+**Background:** White
+
+**Layout:** Image right, text left
+
+**Image:** Modern hotel, resort, or retail building, tropical landscaping, professional photography
+
+- **Stock keywords:** “tropical hotel construction,” “commercial building palm trees”
+
+**Content:**
+
+```
+🏢 Commercial Construction
+
+We specialize in building hotels, resorts, retail centers, office buildings, and restaurants that can withstand CNMI's tropical climate and typhoon conditions.
+
+Our commercial expertise includes:
+✓ Hotels & resorts
+✓ Retail spaces & shopping centers
+✓ Office buildings
+✓ Restaurants & entertainment venues
+✓ Warehouses & industrial facilities
+
+We understand the unique requirements of commercial projects in the islands - from typhoon-resistant design to working with imported materials and managing maritime shipping logistics.
+
+[Button]: "Request Commercial Quote"
+```
+
+-----
+
+**SERVICE 2: Residential Construction**
+
+**Background:** Light beige
+
+**Layout:** Image left, text right
+
+**Image:** Beautiful island home, modern tropical architecture, ocean view visible
+
+- **Stock keywords:** “tropical home architecture,” “island house modern ocean view”
+
+**Content:**
+
+```
+🏠 Residential Construction
+
+From custom single-family homes to multi-family developments, we build island residences designed for comfort, durability, and tropical living.
+
+Our residential services include:
+✓ Custom home design-build
+✓ Multi-family housing
+✓ Townhomes & condominiums
+✓ Home additions & expansions
+✓ Luxury estate homes
+
+Every home we build is constructed to withstand typhoons, humidity, and saltwater corrosion while maximizing natural ventilation and ocean views.
+
+[Button]: "Start Your Dream Home"
+```
+
+-----
+
+**SERVICE 3: Government & Federal Projects**
+
+**Background:** White
+
+**Layout:** Image right, text left
+
+**Image:** School, government building, or public facility, American flag visible
+
+- **Stock keywords:** “school building construction,” “government facility tropical”
+
+**Content:**
+
+```
+🏛️ Government & Federal Contracts
+
+As a registered federal contractor with extensive experience in public sector projects, we're qualified to handle CNMI government, federal, and municipal contracts.
+
+Our government project experience:
+✓ Schools & educational facilities
+✓ Healthcare facilities
+✓ Government office buildings
+✓ Infrastructure projects
+✓ Military & federal installations
+
+We're fully compliant with federal acquisition regulations, maintain proper bonding, and have security clearances for base access when required.
+
+[Button]: "Government Contracting Info"
+```
+
+-----
+
+**SERVICE 4: Renovations & Remodeling**
+
+**Background:** Light beige
+
+**Layout:** Image left, text right
+
+**Image:** Before/after split image or renovation in progress
+
+- **Stock keywords:** “building renovation tropical,” “commercial remodel progress”
+
+**Content:**
+
+```
+🔨 Renovations & Remodeling
+
+Breathe new life into existing structures with our expert renovation services. We handle everything from minor updates to complete building transformations.
+
+Renovation services include:
+✓ Hotel & resort renovations
+✓ Commercial space remodels
+✓ Historic building restoration
+✓ Storm damage repair & rebuilding
+✓ ADA compliance upgrades
+
+Whether recovering from typhoon damage or modernizing an aging property, we work efficiently to minimize downtime and disruption.
+
+[Button]: "Discuss Your Renovation"
+```
+
+-----
+
+**SERVICE 5: Design-Build Services**
+
+**Background:** White
+
+**Layout:** Image right, text left
+
+**Image:** Architects/builders reviewing plans at construction site
+
+- **Stock keywords:** “construction planning meeting,” “architect builder collaboration”
+
+**Content:**
+
+```
+📐 Design-Build Services
+
+Streamline your project with our integrated design-build approach. We partner with leading CNMI architects and engineers to deliver your project faster and more efficiently.
+
+Design-build advantages:
+✓ Single point of responsibility
+✓ Faster project delivery
+✓ Better cost control
+✓ Streamlined communication
+✓ Coordinated design & construction
+
+Our collaborative approach means fewer delays, better coordination, and a finished project that matches your vision and budget.
+
+[Button]: "Learn About Design-Build"
+```
+
+-----
+
+### Our Process Section
+
+**Background:** Deep ocean blue
+
+**Section Title (white text):** “Our Construction Process”
+
+**Layout:** 5-step horizontal timeline (mobile: vertical)
+
+**Timeline Steps:**
+
+```
+1️⃣ Consultation
+Meet to discuss your vision, budget, and timeline
+
+2️⃣ Planning & Design
+Develop detailed plans with architects and engineers
+
+3️⃣ Permitting
+Handle all CNMI permits and regulatory requirements
+
+4️⃣ Construction
+Execute project with quality craftsmanship and safety
+
+5️⃣ Completion & Warranty
+Final walkthrough, punch list, and ongoing support
+```
+
+### Why Choose Pacific Stone Section
+
+**Background:** White
+
+**Layout:** 2 columns of benefits
+
+**Content:**
+
+```
+"Why Work With Pacific Stone Builders?"
+
+✓ Local Expertise
+Deep understanding of CNMI building codes, climate challenges, and typhoon requirements
+
+✓ Proven Track Record
+200+ successful projects across all three islands
+
+✓ Quality Materials
+We source the best materials suited for tropical island construction
+
+✓ Licensed & Bonded
+Fully licensed CNMI General Contractor with proper insurance and bonding
+
+✓ Safety First
+OSHA-certified with an excellent safety record
+
+✓ On-Time Delivery
+Reputation for completing projects on schedule
+
+✓ Transparent Communication
+Regular updates and open dialogue throughout your project
+
+✓ Post-Project Support
+We stand behind our work with comprehensive warranties
+```
+
+### Call-to-Action
+
+**Background:** Coral
+
+**Content (centered):**
+
+```
+"Let's Build Something Amazing Together"
+
+Contact us today for a free consultation and project estimate
+
+[Button]: "Get Free Estimate"    Phone: (670) 234-5678
+```
+
+-----
+
+## **PAGE 4: PROJECTS / PORTFOLIO**
+
+### Hero Section
+
+**Image:** Dramatic completed building, golden hour lighting, impressive architecture
+
+- **Stock keywords:** “completed building dramatic tropical sunset”
+
+**Text Overlay:**
+
+```
+"Our Portfolio"
+Explore 25+ years of construction excellence across the Northern Marianas
+```
+
+### Filter/Category Section
+
+**Background:** White
+
+**Layout:** Horizontal pill-style filter buttons
+
+**Filters:**
+
+```
+[All Projects]  [Commercial]  [Residential]  [Government]  [Renovation]  [Saipan]  [Tinian]  [Rota]
+```
+
+### Projects Grid
+
+**Background:** Light gray
+
+**Layout:** 3-column masonry grid (mobile: 1 column)
+
+**Project Card Structure (12 projects total):**
+
+Each card contains:
+
+- High-quality project photo
+- Overlay on hover showing:
+  - Project name
+  - Location
+  - Category
+  - Completion date
+  - Project value
+- Click to open detailed modal or dedicated project page
+
+-----
+
+**EXAMPLE PROJECT CARDS:**
+
+**Project 1: Coral Bay Resort & Spa**
+
+- Image: Luxury resort, ocean view, sunset
+- Category: Commercial
+- Location: Garapan, Saipan
+- Completed: 2024
+- Value: $2.3M
+
+**Project 2: Kagman Elementary Expansion**
+
+- Image: Modern school building, playground
+- Category: Government
+- Location: Kagman, Saipan
+- Completed: 2023
+- Value: $1.8M
+
+**Project 3: Tenorio Luxury Estate**
+
+- Image: Stunning modern home, ocean view
+- Category: Residential
+- Location: San Roque, Saipan
+- Completed: 2024
+- Value: $850K
+
+**Project 4: Pacific Trade Center**
+
+- Image: Modern office building
+- Category: Commercial
+- Location: Susupe, Saipan
+- Completed: 2023
+- Value: $3.2M
+
+**Project 5: Tinian Municipal Building**
+
+- Image: Government facility
+- Category: Government
+- Location: San Jose, Tinian
+- Completed: 2022
+- Value: $1.5M
+
+**Project 6: Marina Heights Townhomes**
+
+- Image: Modern townhouse complex
+- Category: Residential
+- Location: Garapan, Saipan
+- Completed: 2024
+- Value: $2.8M
+
+**Project 7: Saipan International Airport Renovation**
+
+- Image: Airport terminal
+- Category: Government
+- Location: Saipan
+- Completed: 2023
+- Value: $4.5M
+
+**Project 8: Ocean View Restaurant**
+
+- Image: Beachfront restaurant
+- Category: Commercial
+- Location: Garapan, Saipan
+- Completed: 2024
+- Value: $680K
+
+**Project 9: Rota Health Center**
+
+- Image: Medical facility
+- Category: Government
+- Location: Songsong, Rota
+- Completed: 2022
+- Value: $2.1M
+
+**Project 10: Sablan Family Residence**
+
+- Image: Traditional island home, modern upgrades
+- Category: Residential
+- Location: Koblerville, Saipan
+- Completed: 2024
+- Value: $425K
+
+**Project 11: DFS Galleria Renovation**
+
+- Image: Luxury retail space
+- Category: Renovation
+- Location: Garapan, Saipan
+- Completed: 2023
+- Value: $1.2M
+
+**Project 12: Northern Marianas College Dorms**
+
+- Image: Student housing building
+- Category: Government
+- Location: As Terlaje, Saipan
+- Completed: 2023
+- Value: $3.8M
+
+-----
+
+### Project Detail Modal (When clicking a project)
+
+**Layout:** Full-screen overlay with close button
+
+**Content Structure:**
+
+```
+[Large hero image of project]
+
+Project Name
+Location | Category | Completion Date
+
+Project Description:
+2-3 paragraphs describing the project scope, challenges, solutions, and outcomes
+
+Project Details:
+• Client: [Name or "Private Client"]
+• Project Value: $X.XM
+• Duration: X months
+• Square Footage: X,XXX sq ft
+• Special Features: [list 3-4 unique elements]
+
+[Image Gallery: 4-6 additional photos]
+
+[Button]: "Start Your Project"    [Button]: "View Next Project"
+```
+
+### Testimonials Section
+
+**Background:** Deep ocean blue
+
+**Section Title (white text):** “What Our Clients Say”
+
+**Layout:** 3-column testimonial cards (mobile: carousel)
+
+**Testimonial Card Structure:**
+
+```
+⭐⭐⭐⭐⭐
+
+"Pacific Stone Builders delivered our resort renovation on time and within budget. Their attention to detail and understanding of tropical construction challenges is unmatched in CNMI."
+
+— Maria Santos
+General Manager, Coral Bay Resort
+```
+
+*(Include 3 testimonials total with diverse client types)*
+
+### Call-to-Action
+
+**Background:** Coral
+
+**Content (centered):**
+
+```
+"Ready to See Your Project Here?"
+
+Let's discuss how we can bring your vision to life
+
+[Button]: "Get Started"
+```
+
+-----
+
+## **PAGE 5: CERTIFICATIONS & LICENSES**
+
+### Hero Section
+
+**Image:** Close-up of construction workers with safety gear, certifications visible on hard hats
+
+- **Stock keywords:** “construction safety certification,” “workers hard hats safety gear”
+
+**Text Overlay:**
+
+```
+"Certified, Licensed & Qualified"
+Your assurance of quality, safety, and professional construction services
+```
+
+### Introduction
+
+**Background:** White
+
+**Content (centered, max-width 800px):**
+
+```
+"Building Trust Through Credentials"
+
+At Pacific Stone Builders, we maintain the highest standards of licensing, certification, and compliance. Our credentials demonstrate our commitment to quality, safety, and professional excellence in every project we undertake.
+```
+
+### Licenses Section
+
+**Background:** Light beige
+
+**Section Title:** “Professional Licenses”
+
+**Layout:** 2-column cards
+
+**Card 1:**
+
+```
+📋 CNMI General Contractor License
+
+License #: GC-2024-12345
+Issued: Commonwealth of the Northern Mariana Islands
+Status: Active & Current
+Classification: General Building Contractor, Class A
+
+Authorizes us to perform commercial, residential, and government construction projects throughout Saipan, Tinian, and Rota.
+
+[Button]: "Verify License"
+```
+
+**Card 2:**
+
+```
+🇺🇸 Federal Contractor Registration
+
+SAM.gov UEI: XXXXXXXXXXXXX
+DUNS Number: XXXXXXXXX
+NAICS Codes: 236220, 237310, 238110
+Status: Active
+
+Fully registered to bid on and perform federal government contracts including military and federal civilian projects.
+
+[Button]: "View SAM.gov Profile"
+```
+
+### Certifications Section
+
+**Background:** White
+
+**Section Title:** “Industry Certifications”
+
+**Layout:** 4-column grid of certification badges
+
+**Certifications:**
+
+1. **OSHA 30-Hour Construction Safety**
+
+- All supervisors certified
+- Renewed annually
+
+1. **OSHA 10-Hour (All Workers)**
+
+- 100% crew certified
+- Safety compliance
+
+1. **First Aid & CPR Certified**
+
+- Emergency response ready
+- On-site safety
+
+1. **EPA Lead-Safe Certified**
+
+- Renovation compliance
+- Environmental safety
+
+1. **Bonded & Insured**
+
+- $5M general liability
+- Workers compensation
+
+1. **Quality Management Certified**
+
+- ISO standards adherence
+- Process documentation
+
+### Memberships & Affiliations
+
+**Background:** Light beige
+
+**Section Title:** “Professional Memberships”
+
+**Layout:** 3 large logo cards
+
+**Card 1:**
+
+```
+[Logo placeholder]
+Saipan Chamber of Commerce
+Active Member Since 1998
+
+The Chamber promotes business excellence and economic development in CNMI. Our long-standing membership reflects our commitment to the local business community.
+```
+
+**Card 2:**
+
+```
+[Logo placeholder]
+Associated General Contractors
+Pacific Region Member
+
+AGC represents commercial construction firms, promoting skill, integrity, and responsibility in the construction industry.
+```
+
+**Card 3:**
+
+```
+[Logo placeholder]
+Better Business Bureau
+A+ Rated
+
+BBB accreditation signifies our commitment to ethical business practices, transparency, and customer satisfaction.
+```
+
+### Insurance & Bonding
+
+**Background:** White
+
+**Section Title:** “Insurance & Financial Security”
+
+**Layout:** 2-column info cards
+
+**Card 1:**
+
+```
+💼 Insurance Coverage
+
+General Liability: $5,000,000
+Workers Compensation: Full Coverage
+Commercial Auto: $2,000,000
+Builder's Risk: Project-specific
+Professional Liability: $1,000,000
+
+Carrier: [Insurance Company Name]
+Policy Status: Current & Active
+
+Our comprehensive insurance protects your project investment and provides peace of mind throughout construction.
+```
+
+**Card 2:**
+
+```
+🏦 Bonding Capacity
+
+Bid Bonds: Available
+Performance Bonds: Up to $10M
+Payment Bonds: Up to $10M
+Maintenance Bonds: Available
+
+Surety: [Bonding Company Name]
+Rating: A+ Rated Carrier
+
+Our substantial bonding capacity qualifies us for large-scale commercial and government projects.
+```
+
+### Safety Record Section
+
+**Background:** Deep ocean blue
+
+**Content (white text, centered):**
+
+```
+"Commitment to Safety"
+
+🏆 Zero Lost-Time Accidents in 2024
+📊 EMR Rating: 0.75 (Industry average: 1.0)
+✅ 50,000+ Hours Without Major Incident
+👷 100% OSHA Certified Workforce
+
+Safety isn't just a priority - it's our culture. Every project begins and ends with safety.
+```
+
+### Training & Development
+
+**Background:** White
+
+**Section Title:** “Continuous Training & Education”
+
+**Content:**
+
+```
+We invest in our team's ongoing education:
+
+✓ Annual OSHA refresher training for all workers
+✓ Quarterly safety workshops and toolbox talks
+✓ Leadership development programs
+✓ New construction technology training
+✓ Typhoon preparedness and response drills
+✓ Equipment operation certification programs
+
+Our commitment to training ensures we deliver the highest quality work using the latest construction techniques and safety protocols.
+```
+
+### Compliance Section
+
+**Background:** Light gray
+
+**Section Title:** “Regulatory Compliance”
+
+**Layout:** Checklist-style
+
+**Content:**
+
+```
+✅ CNMI Building Code Compliance
+✅ International Building Code (IBC) Standards
+✅ ADA Accessibility Requirements
+✅ CNMI Environmental Quality Standards
+✅ Federal Acquisition Regulations (FAR)
+✅ Davis-Bacon Wage Requirements (Federal Projects)
+✅ Typhoon & Hurricane Building Standards
+✅ CNMI Fire Safety Codes
+
+We navigate complex regulatory requirements so you don't have to.
+```
+
+### Call-to-Action
+
+**Background:** Coral
+
+**Content (centered):**
+
+```
+"Work With a Fully Credentialed Contractor"
+
+Our certifications and licenses are your guarantee of quality and professionalism
+
+[Button]: "Request Project Quote"    [Button]: "Verify Our Credentials"
+```
+
+-----
+
+## **PAGE 6: CONTACT**
+
+### Hero Section
+
+**Image:** Friendly office staff in modern office, tropical view through windows
+
+- **Stock keywords:** “office team welcoming tropical,” “construction office island”
+
+**Text Overlay:**
+
+```
+"Let's Start Building Together"
+Contact us today for a free consultation and project estimate
+```
+
+### Contact Methods Section
+
+**Background:** White
+
+**Layout:** 3-column cards
+
+**Card 1: Call Us**
+
+```
+📞 Phone
+
+Main Office:
+(670) 234-5678
+
+Emergency/After Hours:
+(670) 234-5679
+
+Mon-Fri: 7:30 AM - 5:00 PM
+Saturday: 8:00 AM - 12:00 PM
+Sunday: Closed (Emergency calls only)
+```
+
+**Card 2: Email Us**
+
+```
+📧 Email
+
+General Inquiries:
+info@pacificstonebuilders.com
+
+Project Quotes:
+quotes@pacificstonebuilders.com
+
+Careers:
+careers@pacificstonebuilders.com
+
+We respond within 24 hours
+```
+
+**Card 3: Visit Us**
+
+```
+📍 Office Location
+
+Pacific Stone Builders
+123 Middle Road
+Garapan, Saipan, MP 96950
+
+Parking available
+Walk-ins welcome
+
+[Button]: "Get Directions"
+```
+
+### Contact Form Section
+
+**Background:** Light beige
+
+**Section Title:** “Send Us a Message”
+
+**Form Layout:**
+
+```
+[Two-column layout - mobile stacks]
+
+Left Column:
+- First Name* [text input]
+- Last Name* [text input]
+- Email Address* [email input]
+- Phone Number* [tel input]
+
+Right Column:
+- Project Type* [dropdown]
+  Options: Select One, Commercial Construction, Residential Construction, Government Project, Renovation, Design-Build, Other
+  
+- Project Location* [dropdown]
+  Options: Select One, Saipan, Tinian, Rota, Multiple Islands
+  
+- Estimated Budget [dropdown]
+  Options: Prefer not to say, Under $100K, $100K-$500K, $500K-$1M, $1M-$5M, Over $5M
+
+Full Width:
+- Project Description* [textarea, 5 rows]
+  Placeholder: "Tell us about your project... timeline, special requirements, etc."
+
+- How did you hear about us? [dropdown]
+  Options: Google Search, Referral, Social Media, Saipan Chamber, Previous Client, Other
+
+☐ I'd like to receive updates about Pacific Stone Builders projects and construction tips
+
+[Coral Button]: "Send Message"
+
+* = Required fields
+```
+
+**Below Form:**
+
+```
+We typically respond within 24 business hours. For urgent matters, please call us directly.
+```
+
+### Map Section
+
+**Background:** White
+
+**Section Title:** “Find Us”
+
+**Layout:** Embedded Google Map (full width)
+
+```
+[Interactive Google Map showing office location in Garapan]
+- Pin on 123 Middle Road, Garapan
+- Zoom level showing nearby landmarks
+- Link: "Open in Google Maps"
+```
+
+### Service Areas Section
+
+**Background:** Light gray
+
+**Section Title:** “We Serve All of CNMI”
+
+**Layout:** 3 columns
+
+**Column 1: Saipan**
+
+```
+🏝️ Saipan
+
+• Garapan
+• Susupe
+• Chalan Kanoa
+• Kagman
+• San Roque
+• Koblerville
+• Capitol Hill
+• All Saipan districts
+
+Our main office location
+```
+
+**Column 2: Tinian**
+
+```
+🏝️ Tinian
+
+• San Jose Village
+• All Tinian areas
+
+Regular project presence
+Full service availability
+```
+
+**Column 3: Rota**
+
+```
+🏝️ Rota
+
+• Songsong Village
+• All Rota areas
+
+Experienced team
+Island-wide coverage
+```
+
+### FAQ Section
+
+**Background:** White
+
+**Section Title:** “Quick Answers”
+
+**Layout:** Accordion-style expandable questions
+
+**Questions:**
+
+```
+▼ How quickly can you provide a project estimate?
+We typically provide preliminary estimates within 3-5 business days after an initial consultation. Detailed estimates for larger projects may take 1-2 weeks.
+
+▼ Do you handle permits and inspections?
+Yes, we manage all CNMI permitting, inspections, and regulatory compliance as part of our service.
+
+▼ What's your typical project timeline?
+Timelines vary by project scope. Small renovations: 1-3 months. Custom homes: 6-12 months. Large commercial projects: 12-24 months. We'll provide a detailed schedule during planning.
+
+▼ Do you work on all three islands?
+Yes, we have extensive experience completing projects on Saipan, Tinian, and Rota.
+
+▼ What payment terms do you offer?
+We typically work on a progress payment schedule with payments tied to project milestones. Terms are customized for each project.
+
+▼ Are you bonded and insured?
+Yes, we maintain comprehensive insurance and bonding. Details available upon request.
+
+▼ Do you offer warranties?
+Yes, we provide warranties on our workmanship and coordinate manufacturer warranties on materials. Specific terms vary by project type.
+
+▼ Can you work with my architect/designer?
+Absolutely. We regularly collaborate with CNMI architects and designers, or we can provide design-build services.
+```
+
+### Office Hours & Holidays
+
+**Background:** Deep ocean blue
+
+**Content (white text, centered):**
+
+```
+📅 Office Schedule
+
+Regular Hours:
+Monday - Friday: 7:30 AM - 5:00 PM
+Saturday: 8:00 AM - 12:00 PM
+Sunday: Closed
+
+CNMI Public Holidays: Closed
+Emergency Services: Available 24/7
+
+We honor all CNMI and U.S. federal holidays
+```
+
+### Call-to-Action
+
+**Background:** Coral
+
+**Content (centered):**
+
+```
+"Let's Discuss Your Project"
+
+Schedule a free consultation with our team today
+
+[Button]: "Call (670) 234-5678"    [Button]: "Email Us"
+```
+
+-----
+
+## **GLOBAL ELEMENTS (All Pages)**
+
+### Navigation Bar
+
+**Style:** Sticky header, white background, subtle shadow
+
+**Layout:**
+
+```
+[Logo]  |  About  |  Services  |  Projects  |  Certifications  |  Contact  | [CTA Button: "Get Quote"]
+```
+
+**Mobile:** Hamburger menu
+
+### Mobile Optimization Requirements
+
+- Touch-friendly buttons (min 44x44px)
+- Readable text (min 16px body)
+- Fast loading (optimize all images)
+- Click-to-call phone numbers
+- Easy form filling
+- Smooth scrolling
+- No horizontal scroll
+
+### Accessibility Requirements
+
+- WCAG 2.1 AA compliant
+- Alt text on all images
+- Keyboard navigation support
+- Color contrast ratios met
+- Screen reader friendly
+- Clear focus indicators
+
+-----
+
+## **TECHNICAL SPECIFICATIONS**
+
+### Performance Targets
+
+- Page load time: < 3 seconds
+- Mobile PageSpeed score: > 85
+- Desktop PageSpeed score: > 90
+- Image optimization: WebP format, lazy loading
+- Lighthouse score: > 90 overall
+
+### Responsive Breakpoints
+
+- Mobile: 320px - 767px
+- Tablet: 768px - 1024px
+- Desktop: 1025px+
+
+### Image Specifications
+
+- Hero images: 1920x1080px minimum
+- Project gallery: 1200x800px minimum
+- Thumbnails: 600x400px
+- Team photos: 800x800px (square)
+- Logo: SVG format for scalability
+- All images: Optimized, compressed, WebP format with JPG fallback
+
+### Stock Photo Style Guide
+
+**Mandatory characteristics:**
+
+- ✅ Tropical/island setting visible (palm trees, ocean, bright sun)
+- ✅ Diverse workforce (Chamorro, Filipino, Asian representation)
+- ✅ Professional safety gear (hard hats, vests, proper equipment)
+- ✅ Bright, natural lighting (golden hour preferred)
+- ✅ Modern, clean construction sites
+- ✅ Real construction activity (not staged/posed)
+- ✅ High resolution (min 2000px width)
+
+**Avoid:**
+
+- ❌ Winter/cold weather settings
+- ❌ Generic office buildings without character
+- ❌ Overly staged/cheesy stock photos
+- ❌ Dark, gloomy construction sites
+- ❌ Unsafe practices shown
+- ❌ Outdated construction methods
+
+### Forms
+
+- Spam protection (reCAPTCHA v3)
+- Email confirmation to user
+- Admin notification
+- Form data stored securely
+- GDPR-style privacy compliance
+
+### Hosting Requirements
+
+- SSL certificate (HTTPS)
+- CDN for global delivery
+- Daily backups
+- 99.9% uptime guarantee
+- Scalable for traffic spikes
+
+-----
+
+## **CONVERSION OPTIMIZATION**
+
+### Primary CTAs (Coral buttons)
+
+1. “Request a Quote” / “Get Free Estimate”
+1. “Call (670) 234-5678”
+1. “Start Your Project”
+
+### Secondary CTAs (Outlined buttons)
+
+1. “View Our Projects”
+1. “Learn More”
+1. “Contact Us”
+
+### Trust Signals Throughout Site
+
+- ⭐ 25+ years in business
+- ✓ Licensed & bonded
+- 👥 100% local team
+- 📋 200+ completed projects
+- 🏆 A+ BBB rating
+- 🔒 Fully insured
+
+### Social Proof Elements
+
+- Client testimonials with photos
+- Project completion statistics
+- Industry certifications displayed
+- Chamber membership badge
+- Before/after project comparisons
+
+-----
+
+## **CONTENT GUIDELINES**
+
+### Tone of Voice
+
+- Professional but approachable
+- Confident without being arrogant
+- Community-focused
+- Clear and straightforward
+- Island-proud
+
+### Key Messaging
+
+- “Local expertise, international standards”
+- “Built for island life, built to last”
+- “Your trusted CNMI construction partner”
+- “Where quality meets community”
+
+### SEO Keywords to Target
+
+- Saipan construction company
+- CNMI general contractor
+- Saipan home builder
+- Commercial construction Saipan
+- Government contractor CNMI
+- Tinian construction services
+- Rota contractor
+- Typhoon-resistant construction
+- Island construction company
+
+-----
+
+## **LAUNCH CHECKLIST**
+
+**Pre-Launch:**
+
+- [ ] All pages functional and tested
+- [ ] Mobile responsiveness verified
+- [ ] Forms tested and working
+- [ ] Contact information accurate
+- [ ] SSL certificate installed
+- [ ] Google Analytics integrated
+- [ ] Google Search Console setup
+- [ ] Social media links functional
+- [ ] All images optimized
+- [ ] Page load speeds tested
+
+**Post-Launch:**
+
+- [ ] Submit sitemap to Google
+- [ ] Create Google Business Profile
+- [ ] Set up Facebook Business Page
+- [ ] Instagram business account
+- [ ] LinkedIn company page
+- [ ] Directory listings (Saipan Chamber, CNMI Phone Book)
+- [ ] Monitor form submissions
+- [ ] Track analytics weekly
+
+-----
+
+## **FUTURE ENHANCEMENTS (Phase 2)**
+
+- Client portal for project tracking
+- Online quote calculator
+- Project timeline visualization
+- Live chat support
+- Blog for construction tips
+- Email newsletter signup
+- Careers section with applications
+- Video testimonials
+- 360° virtual tours of projects
+- Instagram feed integration
+
+-----
+
+This MVP provides a solid, professional foundation for a CNMI construction company website. The focus is on credibility, local expertise, and easy conversion paths while respecting the island culture and aesthetic. The design is clean, modern, and optimized for the tourism-driven, mobile-first CNMI market.​​​​​​​​​​​​​​​​
