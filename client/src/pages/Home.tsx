@@ -52,28 +52,28 @@ export default function Home() {
       <section className="py-16 md:py-24 bg-background">
         <div className="container mx-auto px-4">
           <h2 className="font-heading font-bold text-3xl md:text-4xl text-center mb-4">
-            Complete Construction Solutions for the Northern Marianas
+            Comprehensive Construction & Property Solutions
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-12">
             <ServiceCard
               icon={Building}
               image={commercialImage}
-              title="Commercial Construction"
-              description="Hotels, resorts, retail spaces, and office buildings built to withstand island weather"
+              title="General Construction"
+              description="Residential and commercial construction services delivered with quality materials, professional supervision, and disciplined project execution. We manage projects from foundation to completion, ensuring durability, safety, and long-term value."
               link="/services"
             />
             <ServiceCard
               icon={HomeIcon}
               image={residentialImage}
-              title="Residential Construction"
-              description="Custom homes and multi-family housing designed for island living"
+              title="Property Development & Real Estate"
+              description="End-to-end property development and real estate services, including property sales, land acquisition, and investment support. We help clients make informed decisions and deliver value-driven developments."
               link="/services"
             />
             <ServiceCard
               icon={Landmark}
               image={schoolImage}
-              title="Government Contracts"
-              description="Qualified contractor for federal, CNMI, and municipal projects"
+              title="Renovations & Interior / Exterior Works"
+              description="Professional renovation, remodeling, and finishing services designed to upgrade, restore, and modernize existing properties. Our work combines functionality, aesthetics, and structural integrity."
               link="/services"
             />
           </div>
