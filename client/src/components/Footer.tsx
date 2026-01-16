@@ -9,10 +9,10 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Building2 className="h-8 w-8" />
-              <span className="font-heading font-bold text-lg">Pacific Stone Builders</span>
+              <span className="font-heading font-bold text-lg">Sky Peak Construction</span>
             </div>
-            <p className="text-sm text-white/80">CNMI General Contractor License #12345</p>
-            <p className="text-sm text-white/90">Building the Northern Marianas since 1998</p>
+            <p className="text-sm text-white/80">Serving Accra and the Eastern Region of Ghana</p>
+            <p className="text-sm text-white/90">Reliable, Affordable & Professional Construction Solutions in Ghana</p>
           </div>
 
           <div>
@@ -39,11 +39,13 @@ export default function Footer() {
           <div>
             <h3 className="font-heading font-bold text-lg mb-4">Services</h3>
             <div className="flex flex-col gap-2">
-              <p className="text-sm text-white/80">Commercial Construction</p>
-              <p className="text-sm text-white/80">Residential Construction</p>
-              <p className="text-sm text-white/80">Government Contracts</p>
+              <p className="text-sm text-white/80">General Construction</p>
+              <p className="text-sm text-white/80">Property Development</p>
+              <p className="text-sm text-white/80">Real Estate Sales & Land Acquisition</p>
               <p className="text-sm text-white/80">Renovations & Remodeling</p>
-              <p className="text-sm text-white/80">Design-Build Services</p>
+              <p className="text-sm text-white/80">Plumbing & Electrical Works</p>
+              <p className="text-sm text-white/80">Interior & Exterior Finishings</p>
+              <p className="text-sm text-white/80">Construction Management & Maintenance</p>
             </div>
           </div>
 
@@ -52,18 +54,18 @@ export default function Footer() {
             <div className="flex flex-col gap-3">
               <div className="flex items-start gap-2">
                 <MapPin className="h-4 w-4 mt-1 flex-shrink-0" />
-                <p className="text-sm text-white/80">123 Middle Road, Garapan<br />Saipan, MP 96950</p>
+                <p className="text-sm text-white/80">Accra & Koforidua, Eastern Region<br />Ghana</p>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="h-4 w-4 flex-shrink-0" />
-                <a href="tel:6702345678" className="text-sm text-white/80 hover:text-white" data-testid="link-phone">
-                  (670) 234-5678
+                <a href="tel:0507159245" className="text-sm text-white/80 hover:text-white" data-testid="link-phone">
+                  (050) 715-9245
                 </a>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4 flex-shrink-0" />
-                <a href="mailto:info@pacificstonebuilders.com" className="text-sm text-white/80 hover:text-white" data-testid="link-email">
-                  info@pacificstonebuilders.com
+                <a href="mailto:info@skypeakconstruction.com" className="text-sm text-white/80 hover:text-white" data-testid="link-email">
+                  info@skypeakconstruction.com
                 </a>
               </div>
               <div className="flex items-start gap-2">
@@ -88,11 +90,11 @@ export default function Footer() {
               </a>
             </div>
             <div className="text-sm text-white/70 text-center">
-              © 2024 Pacific Stone Builders | An Equal Opportunity Employer
+              © 2026 Sky Peak Construction | Reliable, Affordable & Professional Construction Solutions in Ghana
             </div>
           </div>
           <div className="text-center mt-4 text-xs text-white/60">
-            Powered by Crafted Executive Solutions - A GovHive Alliance, LLC company
+            Consulted by The Purity Life Group - A Multi-industry technology company
           </div>
         </div>
       </div>
