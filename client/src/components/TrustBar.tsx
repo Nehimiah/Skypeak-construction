@@ -2,10 +2,10 @@ import { CheckCircle2, Award, Building, Users } from "lucide-react";
 
 export default function TrustBar() {
   const trustItems = [
-    { icon: CheckCircle2, text: "25+ Years Serving CNMI" },
-    { icon: Award, text: "Licensed & Bonded Contractor" },
-    { icon: Building, text: "Federal & Government Projects" },
-    { icon: Users, text: "100% Local Team" },
+    { icon: CheckCircle2, text: "Reliable and transparent Project delivery" },
+    { icon: Award, text: "Skilled professionals and technical expertise" },
+    { icon: Building, text: "Quality materials and modern construction methods" },
+    { icon: Users, text: "Client-focused approach from start to completion" },
   ];
 
   return (
