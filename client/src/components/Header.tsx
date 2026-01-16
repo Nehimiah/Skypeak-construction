@@ -25,9 +25,9 @@ export default function Header() {
               <Building2 className="h-10 w-10" />
               <div className="flex flex-col">
                 <span className="font-heading font-bold text-xl leading-tight">
-                  Pacific Stone Builders
+                  Sky Peak Construction
                 </span>
-                <span className="text-xs opacity-90">Building Tomorrow's CNMI, Today</span>
+                <span className="text-xs opacity-90">Reliable, Affordable & Professional Construction Solutions in Ghana</span>
               </div>
             </div>
           </Link>
