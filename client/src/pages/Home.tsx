@@ -19,22 +19,22 @@ export default function Home() {
     {
       icon: Palmtree,
       title: "Reliable and Transparent Project Delivery",
-      description: "We are committed to delivering projects with consistency, accountability, and clear communication. Our clients are kept informed at every stage, ensuring trust, clarity, and confidence throughout the project lifecycle."
+      description: "We are committed to delivering projects with consistency, accountability, and clear communication."
     },
     {
       icon: Users,
       title: "Skilled Professionals and Technical Expertise",
-      description: "Our team is made up of experienced professionals with strong technical knowledge and practical industry experience. We apply proven construction techniques and professionalism to ensure that every project meets required standards."
+      description: "Our team is made up of experienced professionals with strong technical knowledge and practical industry experience."
     },
     {
       icon: FileCheck,
       title: "Quality Materials and Modern Construction Methods",
-      description: "We use carefully selected, quality materials sourced from trusted suppliers and apply modern construction methods to ensure durability, safety, and long-term value. Our approach balances functionality, integrity, and quality, resulting in structures built to last."
+      description: "We use carefully selected, quality materials sourced from trusted suppliers and apply modern construction methods to ensure long-term value."
     },
     {
       icon: Handshake,
       title: "Client-Focused Approach from Start to Completion",
-      description: "We place our clients at the center of every project. By understanding their objectives, budget, and timelines, we deliver tailored solutions that meet practical needs and expectations. Our commitment extends beyond project completion, ensuring satisfaction through responsive support and professional service."
+      description: "We place our clients at the center of every project. We deliver tailored solutions that meet practical needs and expectations."
     }
   ];
 
@@ -108,7 +108,7 @@ export default function Home() {
       </section>
 
       <FeatureSection 
-        title="Why Pacific Stone Builders?" 
+        title="Why Sky Peak Construction?" 
         features={features}
         backgroundImage={constructionSiteImage}
       />
