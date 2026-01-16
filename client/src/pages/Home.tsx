@@ -18,23 +18,23 @@ export default function Home() {
   const features = [
     {
       icon: Palmtree,
-      title: "Island Expertise",
-      description: "We understand CNMI's unique climate, building codes, and typhoon requirements"
+      title: "Reliable and Transparent Project Delivery",
+      description: "We are committed to delivering projects with consistency, accountability, and clear communication. Our clients are kept informed at every stage, ensuring trust, clarity, and confidence throughout the project lifecycle."
     },
     {
       icon: Users,
-      title: "Local Team",
-      description: "100% locally-based crew who understand island culture and community"
+      title: "Skilled Professionals and Technical Expertise",
+      description: "Our team is made up of experienced professionals with strong technical knowledge and practical industry experience. We apply proven construction techniques and professionalism to ensure that every project meets required standards."
     },
     {
       icon: FileCheck,
-      title: "Fully Licensed",
-      description: "CNMI General Contractor License, Federal contractor registration, bonded & insured"
+      title: "Quality Materials and Modern Construction Methods",
+      description: "We use carefully selected, quality materials sourced from trusted suppliers and apply modern construction methods to ensure durability, safety, and long-term value. Our approach balances functionality, integrity, and quality, resulting in structures built to last."
     },
     {
       icon: Handshake,
-      title: "On Time, On Budget",
-      description: "Track record of completing projects on schedule and within budget"
+      title: "Client-Focused Approach from Start to Completion",
+      description: "We place our clients at the center of every project. By understanding their objectives, budget, and timelines, we deliver tailored solutions that meet practical needs and expectations. Our commitment extends beyond project completion, ensuring satisfaction through responsive support and professional service."
     }
   ];
 
@@ -42,8 +42,8 @@ export default function Home() {
     <>
       <Hero
         image={heroImage}
-        title="CNMI's Trusted General Contractor Since 1998"
-        subtitle="From Saipan to Tinian to Rota - Building Excellence Across the Northern Marianas"
+        title="Reliable, Affordable & Professional Construction Solutions in Ghana"
+        subtitle="Delivering high-quality construction, real estate, and property services across Accra and the Eastern Region through disciplined project management, skilled professionals, and trusted industry practices"
         showCTA={true}
       />
       
