@@ -57,8 +57,8 @@ export default function Contact() {
                       <div>
                         <h3 className="font-heading font-bold mb-1">Office Location</h3>
                         <p className="text-muted-foreground">
-                          123 Middle Road, Garapan<br />
-                          Saipan, MP 96950
+                          Junction 5 Okorase, Koforidua<br />
+                          Eastern Region, Ghana
                         </p>
                       </div>
                     </div>
@@ -73,8 +73,8 @@ export default function Contact() {
                       </div>
                       <div>
                         <h3 className="font-heading font-bold mb-1">Phone</h3>
-                        <a href="tel:6702345678" className="text-primary hover:underline" data-testid="link-contact-phone">
-                          (670) 234-5678
+                        <a href="tel:+233507159245" className="text-primary hover:underline" data-testid="link-contact-phone">
+                          (050) 715-9245
                         </a>
                       </div>
                     </div>
@@ -89,8 +89,8 @@ export default function Contact() {
                       </div>
                       <div>
                         <h3 className="font-heading font-bold mb-1">Email</h3>
-                        <a href="mailto:info@pacificstonebuilders.com" className="text-primary hover:underline" data-testid="link-contact-email">
-                          info@pacificstonebuilders.com
+                        <a href="mailto:skypeakconstructionltd11@gmail.com" className="text-primary hover:underline" data-testid="link-contact-email">
+                          skypeakconstructionltd11@gmail.com
                         </a>
                       </div>
                     </div>
@@ -107,7 +107,7 @@ export default function Contact() {
                         <h3 className="font-heading font-bold mb-1">Business Hours</h3>
                         <p className="text-muted-foreground">
                           Monday - Friday: 7:30 AM - 5:00 PM<br />
-                          Saturday: 8:00 AM - 12:00 PM<br />
+                          Saturday: 8:00 AM - 5:00 PM<br />
                           Sunday: Closed
                         </p>
                       </div>
@@ -167,7 +167,7 @@ export default function Contact() {
                     name="projectType"
                     value={formData.projectType}
                     onChange={handleChange}
-                    placeholder="e.g., Commercial, Residential, Government"
+                    placeholder="e.g., General Construction, Renovation & Remodeling, Real Estate"
                     required
                     data-testid="input-project-type"
                     className="mt-1"
@@ -206,8 +206,8 @@ export default function Contact() {
               <div className="w-full h-full flex items-center justify-center text-muted-foreground">
                 <div className="text-center">
                   <MapPin className="h-16 w-16 mx-auto mb-4 text-primary" />
-                  <p className="font-heading font-bold text-xl mb-2">123 Middle Road, Garapan</p>
-                  <p>Saipan, MP 96950</p>
+                  <p className="font-heading font-bold text-xl mb-2">Junction 5 Okorase, Koforidua</p>
+                  <p>Eastern Region, Ghana</p>
                 </div>
               </div>
             </div>
