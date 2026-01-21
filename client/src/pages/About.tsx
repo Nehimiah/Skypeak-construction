@@ -4,7 +4,7 @@ import StatCard from "@/components/StatCard";
 import CTASection from "@/components/CTASection";
 import { Card, CardContent } from "@/components/ui/card";
 import { Target, Eye, Star, Award, FileCheck, Shield } from "lucide-react";
-import teamHeroImage from "@assets/generated_images/team-contact-hero.jpg";
+import teamHeroImage from "@assets/generated_images/Team_photo_ocean_background_dcfaa488.png";
 import constructionSiteImage from "@assets/generated_images/Construction_site_overview_tropical_2ba6d7f9.png";
 import teamMember1 from "@assets/generated_images/Asian_male_contractor_headshot_63ae8f21.png";
 import teamMember2 from "@assets/generated_images/Chamorro_female_professional_headshot_40c4b00b.png";
@@ -176,17 +176,18 @@ export default function About() {
             </div>
             <div>
               <p className="text-muted-foreground leading-relaxed mb-6">
-                At Sky Peak Construction, we believe that strong communities are built through service, responsibility, and shared growth. We are committed to making a positive impact beyond our projects and into the communities we serve.
+                At Pacific Stone Builders, we believe in giving back to the islands that have given us so much.
               </p>
               <div className="space-y-3">
-                <p className="text-muted-foreground font-medium">Our team actively supports and participates in:</p>
+                <p className="text-muted-foreground font-medium">Our team regularly volunteers for:</p>
                 <ul className="space-y-2 text-muted-foreground">
-                  <li>• Youth mentorship and skills development programs</li>
-                  <li>• Community improvement and development initiatives</li>
-                  <li>• Educational support and school-related projects</li>
+                  <li>• Beach cleanups across Saipan</li>
+                  <li>• Habitat for Humanity builds</li>
+                  <li>• Public school improvement projects</li>
+                  <li>• Youth mentorship programs</li>
                 </ul>
                 <p className="text-muted-foreground leading-relaxed mt-6">
-                  We are proud to support local programs, cultural activities, and educational initiatives that contribute to community development, empowerment, and long-term progress.
+                  We're proud to sponsor local sports teams, cultural events, and educational initiatives that strengthen our CNMI community.
                 </p>
               </div>
             </div>
@@ -196,7 +197,7 @@ export default function About() {
 
       <CTASection
         title="Want to Work With Us?"
-        description="Join our team or start your next construction project with Ghana's most trusted builder"
+        description="Join our team or start your next construction project with CNMI's most trusted builder"
         primaryButtonText="Start Your Project"
         primaryButtonLink="/contact"
         secondaryButtonText="Join Our Team"
