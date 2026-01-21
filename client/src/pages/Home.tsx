@@ -5,7 +5,7 @@ import ProjectCard from "@/components/ProjectCard";
 import FeatureSection from "@/components/FeatureSection";
 import CTASection from "@/components/CTASection";
 import { Building, Home as HomeIcon, Landmark, Palmtree, Users, FileCheck, Handshake } from "lucide-react";
-import heroImage from "@assets/generated_images/Hero_construction_workers_tropical_0c4b0f45.png";
+import heroImage from "@assets/generated_images/Homepage-hero.jpg";
 import commercialImage from "@assets/generated_images/Commercial_building_tropical_palms_7d7d8ac8.png";
 import residentialImage from "@assets/generated_images/Modern_island_home_ocean_ed434fed.png";
 import schoolImage from "@assets/generated_images/School_building_playground_tropical_a27fae50.png";
@@ -18,22 +18,22 @@ export default function Home() {
   const features = [
     {
       icon: Palmtree,
-      title: "Reliable and Transparent Project Delivery",
+      title: "Reliable Project Delivery",
       description: "We are committed to delivering projects with consistency, accountability, and clear communication."
     },
     {
       icon: Users,
-      title: "Skilled Professionals and Technical Expertise",
+      title: "Skilled Professionals & Expertise",
       description: "Our team is made up of experienced professionals with strong technical knowledge and practical industry experience."
     },
     {
       icon: FileCheck,
-      title: "Quality Materials and Modern Construction Methods",
+      title: "Quality Materials & Modern Construction Methods",
       description: "We use carefully selected, quality materials sourced from trusted suppliers and apply modern construction methods to ensure long-term value."
     },
     {
       icon: Handshake,
-      title: "Client-Focused Approach from Start to Completion",
+      title: "Client-Focused Approach",
       description: "We place our clients at the center of every project. We deliver tailored solutions that meet practical needs and expectations."
     }
   ];
