@@ -7,7 +7,7 @@ import { Label } from "@/components/ui/label";
 import { Card, CardContent } from "@/components/ui/card";
 import { MapPin, Phone, Mail, Clock } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
-import teamHeroImage from "@assets/generated_images/Team_photo_ocean_background_dcfaa488.png";
+import teamHeroImage from "@assets/generated_images/team contact hero.jpg";
 
 export default function Contact() {
   const { toast } = useToast();
