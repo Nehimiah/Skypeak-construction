@@ -65,7 +65,7 @@ export default function Home() {
             <ServiceCard
               icon={HomeIcon}
               image={residentialImage}
-              title="Property Development & Real Estate"
+              title="Property Development"
               description="End-to-end property development and real estate services, including property sales, land acquisition, and investment support. We help clients make informed decisions and deliver value-driven developments."
               link="/services"
             />
@@ -79,22 +79,22 @@ export default function Home() {
              <ServiceCard
               icon={Landmark}
               image={schoolImage}
-              title="Renovations & Interior / Exterior Works"
-              description="Professional renovation, remodeling, and finishing services designed to upgrade, restore, and modernize existing properties. Our work combines functionality, aesthetics, and structural integrity."
+              title="Real Estate Development"
+              description="Comprehensive real estate development solutions including apartments available for rent, finished and unfinished homes for sale, and land available for residential, commercial, and agricultural purposes, delivered with value, transparency, and long-term growth in mind."
               link="/services"
             />
              <ServiceCard
               icon={Landmark}
               image={schoolImage}
-              title="Renovations & Interior / Exterior Works"
-              description="Professional renovation, remodeling, and finishing services designed to upgrade, restore, and modernize existing properties. Our work combines functionality, aesthetics, and structural integrity."
+              title="Architectural & Building Designs"
+              description="Professional architectural and building design services focused on functionality, aesthetics, compliance, and structural efficiency, delivering well-planned designs that transform ideas into practical, sustainable, and build-ready solutions."
               link="/services"
             />
              <ServiceCard
               icon={Landmark}
               image={schoolImage}
-              title="Renovations & Interior / Exterior Works"
-              description="Professional renovation, remodeling, and finishing services designed to upgrade, restore, and modernize existing properties. Our work combines functionality, aesthetics, and structural integrity."
+              title="Front Wall Fence & Compound Designs"
+              description="Expert front wall fence and compound design services that combine security, durability, and visual appeal, creating well-structured boundaries that enhance property value while meeting functional and aesthetic requirements."
               link="/services"
             />
           </div>
