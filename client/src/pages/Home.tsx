@@ -136,11 +136,11 @@ export default function Home() {
 
       <CTASection
         title="Ready to Start Your Project?"
-        description="Whether it's a custom home, commercial building, or government contract, Pacific Stone Builders delivers quality construction across the CNMI."
-        primaryButtonText="Get a Free Estimate"
+        description="Whether you’re planning a new build, renovation, or large construction project, Sky Peak Construction is ready to deliver excellence from foundation to finish."
+        primaryButtonText="Contact Us Now"
         primaryButtonLink="/contact"
-        secondaryButtonText="Call (670) 234-5678"
-        secondaryButtonLink="tel:6702345678"
+        secondaryButtonText="Call (050) 715-9245"
+        secondaryButtonLink="tel:0507159245"
       />
     </>
   );
