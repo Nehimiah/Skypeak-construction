@@ -176,18 +176,17 @@ export default function About() {
             </div>
             <div>
               <p className="text-muted-foreground leading-relaxed mb-6">
-                At Pacific Stone Builders, we believe in giving back to the islands that have given us so much.
+                At Sky Peak Construction, we believe that strong communities are built through service, responsibility, and shared growth. We are committed to making a positive impact beyond our projects and into the communities we serve.
               </p>
               <div className="space-y-3">
-                <p className="text-muted-foreground font-medium">Our team regularly volunteers for:</p>
+                <p className="text-muted-foreground font-medium">Our team actively supports and participates in:</p>
                 <ul className="space-y-2 text-muted-foreground">
-                  <li>• Beach cleanups across Saipan</li>
-                  <li>• Habitat for Humanity builds</li>
-                  <li>• Public school improvement projects</li>
-                  <li>• Youth mentorship programs</li>
+                  <li>• Youth mentorship and skills development programs</li>
+                  <li>• Community improvement and development initiatives</li>
+                  <li>• Educational support and school-related projects</li>
                 </ul>
                 <p className="text-muted-foreground leading-relaxed mt-6">
-                  We're proud to sponsor local sports teams, cultural events, and educational initiatives that strengthen our CNMI community.
+                  We are proud to support local programs, cultural activities, and educational initiatives that contribute to community development, empowerment, and long-term progress.
                 </p>
               </div>
             </div>
@@ -197,7 +196,7 @@ export default function About() {
 
       <CTASection
         title="Want to Work With Us?"
-        description="Join our team or start your next construction project with CNMI's most trusted builder"
+        description="Join our team or start your next construction project with Ghana's most trusted builder"
         primaryButtonText="Start Your Project"
         primaryButtonLink="/contact"
         secondaryButtonText="Join Our Team"
