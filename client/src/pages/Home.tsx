@@ -76,6 +76,27 @@ export default function Home() {
               description="Professional renovation, remodeling, and finishing services designed to upgrade, restore, and modernize existing properties. Our work combines functionality, aesthetics, and structural integrity."
               link="/services"
             />
+             <ServiceCard
+              icon={Landmark}
+              image={schoolImage}
+              title="Renovations & Interior / Exterior Works"
+              description="Professional renovation, remodeling, and finishing services designed to upgrade, restore, and modernize existing properties. Our work combines functionality, aesthetics, and structural integrity."
+              link="/services"
+            />
+             <ServiceCard
+              icon={Landmark}
+              image={schoolImage}
+              title="Renovations & Interior / Exterior Works"
+              description="Professional renovation, remodeling, and finishing services designed to upgrade, restore, and modernize existing properties. Our work combines functionality, aesthetics, and structural integrity."
+              link="/services"
+            />
+             <ServiceCard
+              icon={Landmark}
+              image={schoolImage}
+              title="Renovations & Interior / Exterior Works"
+              description="Professional renovation, remodeling, and finishing services designed to upgrade, restore, and modernize existing properties. Our work combines functionality, aesthetics, and structural integrity."
+              link="/services"
+            />
           </div>
         </div>
       </section>
