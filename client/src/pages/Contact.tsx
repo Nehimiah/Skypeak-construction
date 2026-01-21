@@ -66,21 +66,25 @@ export default function Contact() {
                 </Card>
 
                 <Card>
-                  <CardContent className="p-6">
-                    <div className="flex items-start gap-4">
-                      <div className="bg-primary/10 p-3 rounded-lg">
-                        <Phone className="h-6 w-6 text-primary" />
-                      </div>
-                      <div>
-                        <h3 className="font-heading font-bold mb-1">Phone</h3>
-                        <a href="tel:+233507159245" className="text-primary hover:underline" data-testid="link-contact-phone">
-                          (050) 715-9245
-                        </a>
-                      </div>
-                    </div>
-                  </CardContent>
-                </Card>
-
+  <CardContent className="p-6">
+    <div className="flex items-start gap-4">
+      <div className="bg-primary/10 p-3 rounded-lg">
+        <Phone className="h-6 w-6 text-primary" />
+      </div>
+      <div>
+        <h3 className="font-heading font-bold mb-1">Phone</h3>
+        <div className="space-y-1">
+          <a href="tel:+233507159245" className="text-primary hover:underline block">
+            (050) 715-9245
+          </a>
+          <a href="tel:+233244935649" className="text-primary hover:underline block">
+            (024) 493-5649
+          </a>
+        </div>
+      </div>
+    </div>
+  </CardContent>
+</Card>
                 <Card>
                   <CardContent className="p-6">
                     <div className="flex items-start gap-4">
