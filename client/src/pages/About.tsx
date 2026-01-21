@@ -16,8 +16,8 @@ export default function About() {
     <>
       <Hero
         image={teamHeroImage}
-        title="Building CNMI's Future, Together"
-        subtitle="Meet the team behind the Northern Marianas' most trusted construction company"
+        title="Building Strong Foundations for the Future"
+        subtitle="Meet the team Sky Peak construction company"
         height="normal"
       />
 
@@ -28,14 +28,12 @@ export default function About() {
               <h2 className="font-heading font-bold text-3xl md:text-4xl mb-6">Our Story</h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Pacific Stone Builders was founded in 1998 by Juan Tenorio, a third-generation Saipan resident who saw the need for a locally-owned construction company that truly understood the unique challenges of building in the Northern Marianas.
+                  Sky Peak Construction Limited is a Ghana based construction and real estate services company committed to delivering reliable, affordable, and professional solutions across the Koforidua, Eastern Region & Ghana.
                 </p>
                 <p>
-                  From our humble beginnings with a crew of five, we've grown into one of CNMI's premier general contractors, completing over 200 projects across Saipan, Tinian, and Rota. But we've never forgotten our roots.
-                </p>
+                  We provide a comprehensive range of services covering the full construction and property development lifecycle. Our offerings include general construction, property development, real estate sales, land acquisition and advisory, renovations and remodeling, plumbing services, electrical works, carpentry, tiling, drainage systems, painting, interior and exterior finishing, alarm and security systems, construction management, building design, and ongoing maintenance services.
                 <p>
-                  Today, our 40+ person team is 100% local, with deep ties to the communities we serve. We're not just building structures - we're building the future of our islands, one project at a time.
-                </p>
+                  Our team consists of experienced professionals with in-depth knowledge of the local construction environment, supported by globally recognized standards and modern construction techniques. We work closely with clients to understand their vision, budget, and timelines, translating ideas into practical, efficient, and sustainable solutions across residential, commercial, and renovation projects.
               </div>
             </div>
             <div>
@@ -57,7 +55,7 @@ export default function About() {
                 <Target className="h-12 w-12 text-primary mx-auto mb-4" />
                 <h3 className="font-heading font-bold text-xl mb-3">Our Mission</h3>
                 <p className="text-muted-foreground">
-                  To deliver exceptional construction services that exceed client expectations while contributing to CNMI's economic growth and community development.
+                  To deliver exceptional construction services that exceed client expectations while contributing to Ghana's economic growth and community development.
                 </p>
               </CardContent>
             </Card>
@@ -66,7 +64,7 @@ export default function About() {
                 <Eye className="h-12 w-12 text-primary mx-auto mb-4" />
                 <h3 className="font-heading font-bold text-xl mb-3">Our Vision</h3>
                 <p className="text-muted-foreground">
-                  To be the Northern Marianas' most respected construction company, known for quality, integrity, and commitment to our island home.
+                  To be the most respected construction company in Ghana, known for quality, integrity, and commitment to our homeland.
                 </p>
               </CardContent>
             </Card>
@@ -123,15 +121,15 @@ export default function About() {
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 max-w-5xl mx-auto">
             <div className="bg-white/10 p-6 rounded-lg text-center">
               <Award className="h-12 w-12 mx-auto mb-3" />
-              <p className="text-sm font-medium">CNMI General Contractor</p>
+              <p className="text-sm font-medium">General Contractor</p>
             </div>
             <div className="bg-white/10 p-6 rounded-lg text-center">
               <FileCheck className="h-12 w-12 mx-auto mb-3" />
-              <p className="text-sm font-medium">Federal Contractor</p>
+              <p className="text-sm font-medium">Federal Contractors</p>
             </div>
             <div className="bg-white/10 p-6 rounded-lg text-center">
               <Shield className="h-12 w-12 mx-auto mb-3" />
-              <p className="text-sm font-medium">OSHA Safety Certified</p>
+              <p className="text-sm font-medium">GSA Safety Certified</p>
             </div>
             <div className="bg-white/10 p-6 rounded-lg text-center">
               <Award className="h-12 w-12 mx-auto mb-3" />
@@ -139,11 +137,11 @@ export default function About() {
             </div>
             <div className="bg-white/10 p-6 rounded-lg text-center">
               <FileCheck className="h-12 w-12 mx-auto mb-3" />
-              <p className="text-sm font-medium">Chamber Member</p>
+              <p className="text-sm font-medium">GhCCI Member</p>
             </div>
             <div className="bg-white/10 p-6 rounded-lg text-center">
               <Shield className="h-12 w-12 mx-auto mb-3" />
-              <p className="text-sm font-medium">BBB Accredited</p>
+              <p className="text-sm font-medium">Accredited & Licensed</p>
             </div>
           </div>
         </div>
@@ -152,13 +150,13 @@ export default function About() {
       <section className="py-16 md:py-24 bg-background">
         <div className="container mx-auto px-4">
           <h2 className="font-heading font-bold text-3xl md:text-4xl text-center mb-4">
-            Pacific Stone Builders in Numbers
+            Sky Peak Construction in Numbers
           </h2>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 max-w-5xl mx-auto mt-12">
-            <StatCard value="25+" label="Years Serving CNMI" />
-            <StatCard value="200+" label="Completed Projects" />
-            <StatCard value="40+" label="Local Employees" />
-            <StatCard value="$50M+" label="Projects Completed" />
+            <StatCard value="5+" label="Years Serving Ghana" />
+            <StatCard value="100+" label="Completed Projects" />
+            <StatCard value="15+" label="Local Employees" />
+            <StatCard value="$2.5M+" label="Projects Completed" />
           </div>
         </div>
       </section>
