@@ -4,7 +4,7 @@ import StatCard from "@/components/StatCard";
 import CTASection from "@/components/CTASection";
 import { Card, CardContent } from "@/components/ui/card";
 import { Target, Eye, Star, Award, FileCheck, Shield } from "lucide-react";
-import teamHeroImage from "@assets/generated_images/Team_photo_ocean_background_dcfaa488.png";
+import teamHeroImage from "@assets/generated_images/team%20contact%20hero.jpg";
 import constructionSiteImage from "@assets/generated_images/Construction_site_overview_tropical_2ba6d7f9.png";
 import teamMember1 from "@assets/generated_images/Asian_male_contractor_headshot_63ae8f21.png";
 import teamMember2 from "@assets/generated_images/Chamorro_female_professional_headshot_40c4b00b.png";
