@@ -11,7 +11,7 @@ import Services from "@/pages/Services";
 //import Projects from "@/pages/Projects";
 //import Certifications from "@/pages/Certifications";
 import Contact from "@/pages/Contact";
-//import NotFound from "@/pages/not-found";
+import NotFound from "@/pages/not-found";
 
 function Router() {
   return (
