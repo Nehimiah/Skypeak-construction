@@ -8,10 +8,10 @@ import Footer from "@/components/Footer";
 import Home from "@/pages/Home";
 import About from "@/pages/About";
 import Services from "@/pages/Services";
-import Projects from "@/pages/Projects";
-import Certifications from "@/pages/Certifications";
+//import Projects from "@/pages/Projects";
+//import Certifications from "@/pages/Certifications";
 import Contact from "@/pages/Contact";
-import NotFound from "@/pages/not-found";
+//import NotFound from "@/pages/not-found";
 
 function Router() {
   return (
@@ -19,8 +19,8 @@ function Router() {
       <Route path="/" component={Home} />
       <Route path="/about" component={About} />
       <Route path="/services" component={Services} />
-      <Route path="/projects" component={Projects} />
-      <Route path="/certifications" component={Certifications} />
+      {/* <Route path="/projects" component={Projects} /> */}
+      {/* <Route path="/certifications" component={Certifications} /> */
       <Route path="/contact" component={Contact} />
       <Route component={NotFound} />
     </Switch>
